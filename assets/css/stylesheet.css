@@ -1,0 +1,11 @@
+iframe {
+	width: 111px;
+	height: auto;
+	float: right;
+	overflow: auto;
+	margin-bottom: 0px;
+};
+.panel-body{
+	position: fixed;
+	clear: both;
+}
